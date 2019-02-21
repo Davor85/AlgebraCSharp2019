@@ -3,5 +3,5 @@
 Ovo je moj projekt iz C#  
 @author  Davor85  
 '''
-Ovo je primjer koda 
+Ovo je primjer koda 2
 '''
